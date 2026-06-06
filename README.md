@@ -1,5 +1,5 @@
 # rbxImmersion
-rbxImmersion is a module desinged to improve the immersion in Roblox Games by adding visual effects
+rbxImmersion is a module desinged to improve the immersion in Roblox Games by adding stunning after effects
 
 ## Installation:
 - Download the package from the Creator Store [here](https://create.roblox.com/store/asset/123539083892419/rbxImersion)
